@@ -22,6 +22,7 @@ let car = {
 // }
 
 
+
 // book.summary();
 
 let human = {
