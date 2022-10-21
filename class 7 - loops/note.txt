@@ -1,0 +1,12 @@
+1. git init  // initialize git in our project 
+
+2. git add .  // add all projects / files in our project to git 
+            git add "class 4" // add only one file / folder
+
+3. git commit -m "initial commit"  // adding a message to added files / changes 
+
+
+4. git remote add origin https://github.com/JC-Coder/intro-to-github.git  // adding the link to our github repository 
+
+
+5. git push origin master  // pushing / uploading added files to our github account 

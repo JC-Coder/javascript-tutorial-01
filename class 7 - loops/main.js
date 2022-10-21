@@ -48,7 +48,7 @@ let b = 0;
 // to check the total length of items in an array we use the .length property
 let names = ['john', 'tope', 'coder', 'bolu', 'tayo', 'bayo'];
 
-// let no = 1;
+let no = 1;
 
 // for(let i = 0; i < names.length; i++){
 //     console.log('No: ' + no + ' is ' + names[i]);
@@ -74,13 +74,13 @@ let names = ['john', 'tope', 'coder', 'bolu', 'tayo', 'bayo'];
 // examle two 
 
 let animals = ['cat', 'dog', 'pig', 'goat', 'cow', 'sheep'];
-let userInput = prompt('enter name  of any animal');
+// let userInput = prompt('enter name  of any animal');
 
-for(let i = 0; i < animals.length; i++) {
-    let oneAnimal = animals[i];
+// for(let i = 0; i < animals.length; i++) {
+//     let oneAnimal = animals[i];
 
-    if(userInput == oneAnimal){
-        console.log('you win');
-        break;
-    }
-}
+//     if(userInput == oneAnimal){
+//         console.log('you win');
+//         break;
+//     }
+// }
